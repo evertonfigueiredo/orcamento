@@ -1,0 +1,1 @@
+<img src="{{ asset('images/user.png') }}" style="width: 12rem" alt="Exemplo">
