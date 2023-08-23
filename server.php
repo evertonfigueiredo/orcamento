@@ -6,7 +6,7 @@ $uri = urldecode(
 // built-in PHP web server. This provides a convenient way to test a Laravel
 // application without having installed a "real" web server software here.
 echo "$uri";
-if ($uri == "/hook.php") {
+if ($uri == "/hook.php" || $uri == '/orcamento/hook.php') {
     
     require_once 'hook.php';
 }else{
