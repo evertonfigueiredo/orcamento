@@ -41,4 +41,5 @@
         controle organizado sobre seus produtos e orçamentos.</p>
 
     <p><strong>* Alguns desses topicos ainda estão em desenvolvimento.</strong></p>
+    <p><strong>Desenvolvido por Everton Figueiredo</strong></p>
 @endsection
