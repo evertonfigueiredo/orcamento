@@ -33,5 +33,6 @@ Route::resource('cores', 'App\Http\Controllers\CoreController');
 Route::resource('categorias', 'App\Http\Controllers\CategoriaController');
 Route::resource('clientes', 'App\Http\Controllers\ClienteController');
 Route::resource('produtos', 'App\Http\Controllers\ProdutoController');
+Route::resource('fornecedores', 'App\Http\Controllers\FornecedoreController');
 
 require __DIR__.'/auth.php';
